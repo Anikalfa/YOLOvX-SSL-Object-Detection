@@ -2,6 +2,10 @@
 
 ## Overview
 This repository contains code for performing object detection using YOLOv10, YOLOv11, and YOLOv12 backbones, utilizing Semi-Supervised Learning (SSL) and Self-Supervised Learning (SSL) methods. The project includes multiple notebooks for different configurations and experimental setups.
+## Dataset
+Dataset title: Fish Fry Dataset (FFD): used for stocking density control and health assessment
+Use case: Fish Detection using Semi-Supervised Approach
+- **Dataset Link:** [FishFry](https://data.mendeley.com/datasets/y52ffd3xdc/1)  
 
 ## Notebooks
 The notebooks are organized as follows:
